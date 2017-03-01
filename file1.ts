@@ -2,7 +2,11 @@ export class Test1 {
 
     private text1: string;
 
-    foo():void{
+    constructor(){
+        this.text1 = 'Test';
+    }
+
+    foo123456789():void{
 
     }
 }
